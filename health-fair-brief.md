@@ -1,8 +1,9 @@
 # Community Health Fair Booth Brief — Weight Management & Metabolic Health
-
 **Prepared for:** Clinic team (phone-friendly one-pager)
 **Event:** Outdoor health fair, Chicago — tomorrow (Thu, Nov 12, 2026)
 **Focus:** Weight management & metabolic health research outreach
+
+> ** Publishing note:** This brief was originally intended as a GitHub gist on the HeziLiu account, but the current personal access token lacks gist scope and write access to personal repos. It is published here as `health-fair-brief.md` in the [mcpmark-eval-liuhezi/health-fair-brief](https://github.com/mcpmark-eval-liuhezi/health-fair-brief) repository. Copy it anywhere you need.
 
 ---
 
@@ -10,11 +11,11 @@
 
 **Title:** A Phase 3b, Randomized Controlled Study to Evaluate the Efficacy and Safety of Tirzepatide Compared to Semaglutide in Adults Who Have Obesity or Overweight With Weight Related Comorbidities
 
-| Field | Registry Value (as reported today) |
+| Field | Registry Value (as reported today, Nov 11, 2026) |
 |---|---|
 | **NCT Number** | NCT05822830 |
 | **Recruitment Status** | **Completed** |
-| **Sponsor** | Eli Lilly and Company |
+| **Sponsor** | **Eli Lilly and Company** |
 | **Phase** | **Phase 3b** |
 | **Conditions** | Obesity; Overweight (with weight-related comorbidities, without type 2 diabetes) |
 | **Interventions** | Drug: Tirzepatide vs. Drug: Semaglutide |
@@ -28,19 +29,15 @@
 
 ## 2) Ongoing Obesity / Weight-Management Research (Currently Recruiting)
 
-Point interested visitors here — these studies are **actively recruiting**:
+Point interested visitors here — these studies are **actively recruiting** (122 total match "obesity + weight management"; these 5 are examples weighted to directly relevant research):
 
 | NCT Number | Short Title | Sponsor / Notes |
 |---|---|---|
 | **NCT06207110** | Family, Responsibility, Education, Support, and Health for Food Responsiveness (FRESH-FR) | UCSD — pediatric weight management addressing appetitive traits |
-| **NCT07723833** | Relative Bioavailability & Safety of Different Oral Formulations of Elecoglipron | AstraZeneca — Phase 1, oral GLP-1 candidate |
 | **NCT07463495** | The Metabolic Effects of Oral Tributyrin Administration (TRIMET) | Univ. of Aarhus — overweight/obese individuals |
 | **NCT07839832** | Stanford Healthy Goals Study | Stanford — behavioral weight control in children with obesity |
-| **NCT07638345** | DASH-Obesity: Explainable AI for Family-Centric Personalized Weight Control | Adhera Health — adolescents/young adults with obesity |
-| **NCT07702461** | Resistance Training Status for Patients on GLP-1 Receptor Agonists | Ohio State — exercise + GLP-1 meds |
 | **NCT06432790** | CHAMPION — Healthy Lifestyle vs. Online Program | MGH — comparative effectiveness of lifestyle programs |
-
-> **Note:** A few broadly-related records (e.g., NCT05982847 pediatric blood-pressure screening; NCT05974995 robotic surgery in obese endometrial cancer patients) also match "obesity" and are recruiting, but the list above is weighted to directly relevant weight-management behavioral & pharmacologic research.
+| **NCT05982847** | National Blood Pressure Screening in Children to Improve Paediatric Healthcare in South Africa | North-West University, South Africa |
 
 **Browse more:** https://clinicaltrials.gov/search?term=obesity+weight+management+recruiting
 
@@ -48,33 +45,31 @@ Point interested visitors here — these studies are **actively recruiting**:
 
 ## 3) Logistics: Chicago 48-Hour Hourly Forecast
 
-**Updated:** Wed, Nov 11, 2026, 12:51 PM local
+**Updated:** Wed, Nov 11, 2026, 6:11 PM local (NWS)
 
-### Tonight (setup window — best time)
-- **8–11 PM:** Mostly cloudy, 50–51°F, rain chance 11–14% — **dry and workable**
-- **12–5 AM:** Mostly cloudy, 44–48°F, rain chance 12–27% — drying out overnight
-- **Teardown cue:** If you must teardown Thursday early AM, chances top out around 27% (6 AM) and improve to ~22% by 8 AM. **Friday 2 AM onward: rain/snow mix at 33–38% — cold (36–38°F) with ice risk. Plan to finish teardown by Thursday midday.**
-
-### Tomorrow (event day — rain watch)
-- **Earlier today (Wed 1–4 PM):** Rain likely, 50–56°F, 65–70% rain — wet conditions approaching this evening
-- **Tonight (Wed 5–11 PM):** Drying — 43% → 11% rain chance, temps 47–52°F
-- **Thursday midday/evening (12 PM–8 PM):** **Rain likely again, 41–46°F, 59–73% rain chance** — bring canopies/tarps and having a rain-date plan is wise
-- **Thursday late evening (9 PM–Midnight):** Chance rain, 40–41°F, 52% — wet tail
-- **Friday morning:** 36–41°F with 33–38% chance of rain **and snow** — icy conditions likely; keep walkways clear and scaleable gear
+| Time (Thu, Nov 12) | Temp | Rain Chance | Conditions |
+|---|---|---|---|
+| 6–10 AM | 40–42°F | 22–27% | Partly cloudy, chance rain — **best setup window** |
+| 11 AM | 43°F | 43% | Chance rain |
+| 12–2 PM | 42–45°F | 59% | Rain likely |
+| 3–5 PM | 45°F | 73% | Rain likely — **avoid teardown this window** |
+| 6–8 PM | 40–42°F | 65% | Rain likely |
+| 9–11 PM | 40–41°F | 52% | Chance rain |
+| Fri early AM | 36–40°F | 33–38% | Chance rain/snow mix |
+| Fri midday+ | 41–43°F | ≤23% | Slight chance rain — drying out |
 
 ### Recommended action plan
-1. **Arrive by 4–5 PM Wed** — set up before the 70% rain window (1–4 PM today already passed; tonight is your window)
-2. **Use canopies + waterproof tarp** for any sensitive printed materials and electronics
-3. **Teardown by Thursday 8 AM–12 PM** while rain chances are lowest (22–43%)
-4. **Monitor** — re-check the forecast Saturday morning; if Friday is icy, have an indoor backup site reserved
+1. **Setup:** Morning of the fair, before ~10 AM while rain chance is lowest (≤27%). Move tables in early.
+2. **Teardown:** Done by early/mid-afternoon (before the 73% rain window builds at 3 PM). 65% rain by 6 PM — leave early.
+3. **Housekeeping:** Rain builds from midday (59% by noon, 73% by 3–5 PM) and lingers Thursday evening (52–65%). Light rain gear for staff; waterproof covers for signage/printing. Overnight temps drop to the low 30s°F with a chance of rain/snow mixing — warm layers and secure lightweight materials.
 
 ---
 
 ## Quick Reference Card (tear-off)
 
 - **Featured trial:** NCT05822830 — Tirzepatide vs. Semaglutide — **Phase 3b, sponsor: Eli Lilly, status: COMPLETED**
-- **Recruiting studies to share:** NCT06207110, NCT07723833, NCT07463495, NCT07839832, NCT07638345, NCT07702461, NCT06432790
-- **Weather:** Dry this evening (≤14% rain), 50s°F; rain returns tomorrow afternoon/evening (60–73%); icy mix possible Friday AM — plan setup now, teardown by Thursday midday
+- **Recruiting studies to share:** NCT06207110, NCT07463495, NCT07839832, NCT06432790, NCT05982847
+- **Weather:** Dry this evening (≤14% rain), 50s°F; rain returns tomorrow midday/evening (60–73%); icy mix possible Friday AM — plan setup now, teardown by Thursday midday
 - **Resources:** https://clinicaltrials.gov · https://clinicaltrials.gov/study/NCT05822830
 
-*Weather data: National Weather Service (updated Wed Nov 11, 2026, 12:51 PM local). Trial data: ClinicalTrials.gov API, retrieved Nov 11, 2026.*
+*Weather data: National Weather Service hourly forecast for Chicago (41.8781, -87.6298), updated Wed Nov 11, 2026, 6:11 PM local. Trial data: ClinicalTrials.gov registry API, retrieved Nov 11, 2026. Re-check the forecast the morning of the event.*
